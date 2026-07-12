@@ -1,1 +1,4 @@
-# Brotherhood of the damned
+---
+title: Brotherhood of the Damned
+---
+

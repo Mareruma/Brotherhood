@@ -12,12 +12,12 @@ configuration:
     - private
     - templates
     - .obsidian
-  theme:
+    theme:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: "Cinzel Decorative" # Episks, dārgakmeņu stila TTRPG burtveidols virsrakstiem
+      body: "Plus Jakarta Sans"   # Ļoti moderns, tīrs un viegli lasāms teksts pasaules aprakstiem
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -26,20 +26,21 @@ configuration:
         gray: "#b8b8b8"
         darkgray: "#4e4e4e"
         dark: "#2b2b2b"
-        secondary: "#284b63"
+        secondary: "#a61e1e"       # Tīrs, tumši sarkans akcents
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        light: "#121214"           # Maigāks, dziļi pelēks/melns fons (mazāk nogurdina acis)
+        lightgray: "#1a1a1e"       # Rāmji un meklētāja fons, kas smuki izceļas
+        gray: "#64646e"            # Datumi un mazāks teksts
+        darkgray: "#c4c4c9"        # Galvenais teksts – nedaudz pieklusināts baltais, ideāls lasīšanai
+        dark: "#ffffff"            # Spilgti balti virsraksti un svarīgākās lietas
+        secondary: "#e03131"       # Izteiksmīgi sarkani (asins toņa) virsraksti un aktīvās saites
+        tertiary: "#ff6b6b"        # Gaišāks sarkans, kad uzbrauc ar peli (hover efekts)
+        highlight: rgba(224, 49, 49, 0.08) # Maigs sarkans callout kastīšu fons
         textHighlight: "#b3aa0288"
+
 plugins:
   # --- OBSIDIAN PAMATA STRĀDĀJOŠIE SPRAUDŅI (Appearance) ---
   - source: github:quartz-community/syntax-highlighting
