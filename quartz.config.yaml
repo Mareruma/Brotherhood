@@ -1,23 +1,23 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Brotherhood Wiki
+  pageTitle: Quartz 5
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: mareruma.github.io/Brotherhood
+  baseUrl: quartz.jzhao.xyz
   ignorePatterns:
     - private
     - templates
     - .obsidian
-    theme:
+  theme:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: "Cinzel Decorative" # Episks, dārgakmeņu stila TTRPG burtveidols virsrakstiem
-      body: "Plus Jakarta Sans"   # Ļoti moderns, tīrs un viegli lasāms teksts pasaules aprakstiem
+      header: Schibsted Grotesk
+      body: Source Sans Pro
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -26,23 +26,30 @@ configuration:
         gray: "#b8b8b8"
         darkgray: "#4e4e4e"
         dark: "#2b2b2b"
-        secondary: "#a61e1e"       # Tīrs, tumši sarkans akcents
+        secondary: "#284b63"
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
       darkMode:
-        light: "#121214"           # Maigāks, dziļi pelēks/melns fons (mazāk nogurdina acis)
-        lightgray: "#1a1a1e"       # Rāmji un meklētāja fons, kas smuki izceļas
-        gray: "#64646e"            # Datumi un mazāks teksts
-        darkgray: "#c4c4c9"        # Galvenais teksts – nedaudz pieklusināts baltais, ideāls lasīšanai
-        dark: "#ffffff"            # Spilgti balti virsraksti un svarīgākās lietas
-        secondary: "#e03131"       # Izteiksmīgi sarkani (asins toņa) virsraksti un aktīvās saites
-        tertiary: "#ff6b6b"        # Gaišāks sarkans, kad uzbrauc ar peli (hover efekts)
-        highlight: rgba(224, 49, 49, 0.08) # Maigs sarkans callout kastīšu fons
+        light: "#161618"
+        lightgray: "#393639"
+        gray: "#646464"
+        darkgray: "#d4d4d4"
+        dark: "#ebebec"
+        secondary: "#7b97aa"
+        tertiary: "#84a59d"
+        highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
-
 plugins:
-  # --- OBSIDIAN PAMATA STRĀDĀJOŠIE SPRAUDŅI (Appearance) ---
+  - source: github:quartz-community/created-modified-date
+    enabled: true
+    options:
+      defaultDateType: modified
+      priority:
+        - frontmatter
+        - git
+        - filesystem
+    order: 10
   - source: github:quartz-community/syntax-highlighting
     enabled: true
     options:
@@ -54,17 +61,7 @@ plugins:
   - source: github:quartz-community/obsidian-flavored-markdown
     enabled: true
     options:
-      comments: true
-      highlight: true
-      wikilinks: true
-      callouts: true
-      mermaid: true
-      parseTags: true
-      parseArrows: true
-      parseBlockReferences: true
       enableInHtmlEmbed: false
-      enableYouTubeEmbed: true
-      enableVideoEmbed: true
       enableCheckbox: true
     order: 30
   - source: github:quartz-community/github-flavored-markdown
@@ -89,6 +86,24 @@ plugins:
     options:
       renderEngine: katex
     order: 80
+  - source: github:quartz-community/citations
+    enabled: false
+    order: 85
+  - source: github:quartz-community/hard-line-breaks
+    enabled: false
+    order: 90
+  - source: github:quartz-community/ox-hugo
+    enabled: false
+    order: 91
+  - source: github:quartz-community/roam
+    enabled: false
+    order: 92
+  - source: github:quartz-community/fonts
+    enabled: true
+  - source: github:quartz-community/remove-draft
+    enabled: true
+  - source: github:quartz-community/explicit-publish
+    enabled: false
   - source: github:quartz-community/alias-redirects
     enabled: true
   - source: github:quartz-community/content-index
@@ -97,6 +112,10 @@ plugins:
       enableSiteMap: true
       enableRSS: true
   - source: github:quartz-community/favicon
+    enabled: true
+  - source: github:quartz-community/og-image
+    enabled: true
+  - source: github:quartz-community/cname
     enabled: true
   - source: github:quartz-community/canvas-page
     enabled: true
@@ -134,6 +153,16 @@ plugins:
     layout:
       position: beforeBody
       priority: 10
+  - source: github:quartz-community/content-meta
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 20
+  - source: github:quartz-community/tag-list
+    enabled: false
+    layout:
+      position: beforeBody
+      priority: 30
   - source: github:quartz-community/page-title
     enabled: true
     layout:
@@ -157,12 +186,22 @@ plugins:
       position: beforeBody
       priority: 5
       condition: not-index
+  - source: github:quartz-community/comments
+    enabled: false
+    options:
+      provider: giscus
+      options: {}
+    layout:
+      position: afterBody
+      priority: 10
   - source: github:quartz-community/footer
     enabled: true
     options:
       links:
-        GitHub: https://github.io
-        Discord Community: https://discord.gg
+        GitHub: https://github.com/jackyzha0/quartz
+        Discord Community: https://discord.gg/cRFFHYye7t
+  - source: github:quartz-community/recent-notes
+    enabled: false
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -171,6 +210,10 @@ plugins:
       position: left
       priority: 25
       display: mobile-only
+  - source: github:quartz-community/bases-page
+    enabled: true
+    options: {}
+    order: 50
   - source: github:quartz-community/note-properties
     enabled: true
     options:
@@ -188,28 +231,28 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-
-  # --- D&D UN KOPĪNAS COOMUNITY SPRAUDŅI ---
-  - source: github:Requiae/quartz-leaflet-bases-plugin
+  - source: github:quartz-community/unlisted-pages
+    enabled: true
+    options: {}
+    order: 45
+  - source: github:quartz-community/encrypted-pages
     enabled: true
     options:
-      enableCopyTool: false
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-    enabled: true
-    options:
-      theme: its-theme
-      variation: ttrpg-dnd
-  - source: github:quartz-community/obsidian-plugin-excalidraw
-    enabled: true
-    options:
-      enableInteraction: true
-      darkMode: auto
-      exportPadding: 20
-    order: 50
-
+      iterations: 600000
+      passwordField: password
+      unlistWhenEncrypted: false
+      outputPath: static/encryptedContentIndex.json
+    order: 900
+    layout:
+      position: body
+      priority: 100
+      display: all
+  - source: github:quartz-community/stacked-pages
+    enabled: false
+    layout:
+      position: afterBody
+      priority: 50
+      display: all
 layout:
   groups:
     toolbar:
@@ -234,3 +277,4 @@ layout:
       positions:
         right: []
     canvas: {}
+    bases: {}
