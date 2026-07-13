@@ -1,13 +1,14 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Brotherhood wiki
+  pageTitle: Brotherhood
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: mareruma.github.io
+  pathPrefix: /Brotherhood
   ignorePatterns:
     - private
     - templates
