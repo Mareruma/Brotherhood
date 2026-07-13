@@ -1,5 +1,4 @@
 
-# The Grain Engine of Rhaxdanpoint
 
 The **Blue Lake Region** (comprising 91 interconnected Farmland Tiles) is the undisputed breadbasket of the known world. It operates not as a standard feudal countryside, but as a monumental magi-industrial food engine. This region is solely responsible for producing **230,000,000 tons of food annually** to sustain approximately **657,000,000 consumers** across the world, primarily feeding the massive, hungry empires across the sea.
 
@@ -54,19 +53,3 @@ Operating out of the maritime megapolis of **[[Rhaxdanpoint]]** (which is not a 
 
 * **The Bloodline Secret:** Only individuals carrying the Brightwater bloodline or their highly specialized magisters possess the volatile knowledge required to stabilize and repair the 10,000-ton spatial rifts within the Cruisers. If a Cruiser's runes begin to fracture, a Brightwater Engineer must be dispatched immediately.
 * **The Overseer Dynamic:** Every week, 108,000 human laborers on a tile fill the Cruiser to its 10,000-ton capacity through the rear hopper. Once full, the Brightwater captain seals the vault, coordinates with the local Storm Giant, and begins the rapid one-day journey to the shipping docks of Rhaxdanpoint. 
-
----
-
-## DM Tools & Campaign Integration
-
-For classes like **Rangers** and **Outlanders**, this highly industrialized fantasy region provides distinct gameplay mechanics and plot hooks.
-
-### Mechanical Hazard: Spatial Rupture
-If an Abyss Cruiser takes severe structural damage (e.g., from siege weaponry or targeted dispel magic) or if its Brightwater captain is killed without a magical proxy to stabilize the spatial anchor, the pocket dimension collapses instantly.
-* **The Kinetic Avalanche:** 10,000 tons of compressed grain burst into the material world in a single fraction of a second. This triggers an explosive kinetic shockwave. 
-* **The Aftermath:** The resulting avalanche can instantly obliterate entire villages, forests, or military encampments within a 1-mile radius, burying everything under a suffocating, 20-meter-deep layer of raw flour and wheat.
-
-### DM Plot Hooks
-1. **The Overseas Sabotage:** A hostile foreign empire, desperate to weaken its rivals who depend on Rhaxdanpoint’s grain ships, hires high-tier saboteurs. Their goal is to infiltrate Hex 44, assassinate its Brightwater driver, or introduce a magical rot-curse directly into a Cruiser’s 10,000-ton vault, triggering a massive famine across the ocean.
-2. **Clearing the Giant’s Path (Ranger/Outlander Job):** House Brightwater routinely hires elite scouts and trailblazers to ride ahead of the Storm Giant’s scheduled weekly march. The party's job is to survey the Giant Highway and eliminate any deep-wilderness threats—such as territorial dragons, magical rockslides, or specialized ambush traps—before the irreplaceable 10,000-ton payload arrives.
-3. **The Rogue Giant:** The Storm Giant of a northern Farmland Tile has gone on "strike," refusing to haul the Cruiser until House Brightwater pays a tribute of rare, lightning-infused gemstones from the [[Xanbiahwortg]] mountains. The grain is beginning to pile up and rot outside the silos, and the party is sent to negotiate (or handle) the situation.
