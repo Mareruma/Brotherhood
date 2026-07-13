@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: mareruma.github.io
+  baseUrl: mareruma.github.io/Brotherhood
   pathPrefix: /Brotherhood
   ignorePatterns:
     - private
