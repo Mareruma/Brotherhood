@@ -255,11 +255,7 @@ plugins:
       display: all
   - source: github:quartz-community/obsidian-plugin-leaflet
     enabled: true
-    options: {}
-    order: 50
-    layout:
-      position: right
-      priority: 50
+    order: 15
 layout:
   groups:
     toolbar:
