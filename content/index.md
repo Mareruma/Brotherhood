@@ -18,3 +18,5 @@ title: Brotherhood of the Damned
 
 - [[Settlements]]
 - [[Regions]]
+- [[Organizations]]
+- [[Leadership]]
