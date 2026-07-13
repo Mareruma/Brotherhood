@@ -15,3 +15,6 @@ title: Brotherhood of the Damned
 
 ## Wold
 ![[worldmap.png]]
+
+- [[Settlements]]
+- [[Regions]]
