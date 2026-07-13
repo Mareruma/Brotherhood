@@ -28,25 +28,41 @@ The ingredients found depend on the surrounding terrain.
 
 ### Potion of Healing
 *Potion, common*
+
 **Ingredients.** 6 Herbal Units and 1 vial of spring water.
 **Brewing Time.** 2 hours.
+
 A creature that drinks this potion regains **2d4 + 2 hit points**.
+
+***
 
 ### Greater Potion of Healing
 *Potion, uncommon*
+
 **Ingredients.** 12 Herbal Units and 1 Rare Ingredient.
 **Brewing Time.** 6 hours.
+
 A creature that drinks this potion regains **4d4 + 4 hit points**.
+
+***
 
 ### Superior Potion of Healing
 *Potion, rare*
+
 **Ingredients.** 24 Herbal Units, 2 Rare Ingredients, and a flask of alchemical alcohol worth 50 gp.
 **Brewing Time.** 16 hours.
+
 If you brew this potion during a long rest, you must succeed on a DC 13 Constitution saving throw or gain one level of exhaustion.
+
 A creature that drinks this potion regains **8d4 + 8 hit points**.
+
+***
 
 ### Supreme Potion of Healing
 *Potion, very rare*
+
 **Ingredients.** 40 Herbal Units, 4 Rare Ingredients, and the fresh heart of a creature of CR 5 or higher that possesses the Regeneration trait.
 **Brewing Time.** 48 hours.
+
 A creature that drinks this potion regains **10d4 + 20 hit points**.
+
