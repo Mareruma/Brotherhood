@@ -8,3 +8,7 @@ title: Brotherhood of the Damned
 - [[Soveliss Amakin]]
 - [[Fin Brightwater]]
 - [[Mike Ehrmantraut]]
+
+## Hombrew
+- [[Potions of healing]]
+- 
