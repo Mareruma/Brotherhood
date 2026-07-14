@@ -10,3 +10,5 @@
 ## Weapons
 - Wild shape
 - Spellcasting
+## Links
+- [[Ape]] - hometown

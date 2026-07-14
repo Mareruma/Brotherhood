@@ -9,3 +9,6 @@
 ## Weapons
 - Longsword
 - Spellcasting
+## Links
+- [[Rhaxdanpoint]] - hometown
+- [[House Brightwater]] - Family

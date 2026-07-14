@@ -15,7 +15,7 @@ House Thornheart is the ancient, iron-willed royal bloodline of high-elven and h
 > - **Domestic Production Cost:** 15 gp per ton (Lumberjack labor & Sylvan Warden protection)
 > - **Drupsall Base Value:** 35 gp per ton (Local market price)
 > - **Overseas Export Value (+200% markup):** **105 gp per ton** (Due to structural dependency and absolute monopoly)
-> - **Gross Annual Revenue:** **~16,905,000,000 gp** (16.9 Billion Gold Pieces annually from overseas trades, making them the wealthiest royal family in the known world)
+> - **Gross Annual Revenue:** **~106,905,000,000 gp** (16.9 Billion Gold Pieces annually from overseas trades, making them the wealthiest royal family in the known world)
 > - **Net Royal Liquid Wealth:** Estimated at 620,000,000 gp in ancient relics, refined white gold, and sovereign ironwood reserves.
 
 ---
