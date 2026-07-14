@@ -42,14 +42,5 @@ Kaspars is the perfect public image of House Brightwater and his father's right 
 ### Laira Brightwater (The Daughter)
 Laira is the wild, unpredictable face of the family. While she plays the role of a charming, high-society noblewoman during diplomatic banquets in Semmagel, she secretly loathes her family's cold, industrial greed. Laira manages the family's relations with the 91 Storm Giants, spending more time in the Hilfare giant yards than in her own palace. She is highly perceptive and has recently begun noticing that her father and eldest brother, Kaspars, are hiding a dark, tight-lipped secret regarding the mansion's deepest subterranean vaults.
 
-### Artūrs Brightwater (The Youngest Son)
+### Arthur Brightwater (The Youngest Son)
 Artūrs is the youngest of the legitimate children. He is relatively young, more naive than his older siblings, and is currently desperate to find his footing within this ruthless household. His father and Kaspars view him as far too soft-hearted, relegated for now to minor administrative tasks and accounting duties within the Semmagel office blocks. Artūrs wants nothing more than to prove his worth to the family, completely unaware of how bloody and lethal the games his father and eldest brother play truly are.
-## Character Options & Campaign Hooks
-
-For characters operating in the Blue Lake region, House Brightwater represents both a source of immense wealth and a terrifyingly powerful enemy.
-
-### Character Background: The Escape Ally
-If a player character is a rogue, ranger, or fighter, they might have been a low-level guard or a bribed servant in the Brightwater cellars who helped Fin break his chains and escape into the dense tenements of Hearthway. You are now a marked target; if Kaspars or the Crimson Guard tracks you down, you will be silenced permanently to keep the existence of the middle brother a secret from the overseas trade partners.
-
-### Character Hook: The Trailblazer Contract
-House Brightwater is currently hiring high-tier, hardened rangers and outlanders to investigate a series of mysterious ambushes along the Giant Highways leading to the eastern hexes. Several Storm Giants have reported sensing strange, anti-magical runes buried under the dirt—runes specifically designed to trip the Giants and trigger a catastrophic **Spatial Rupture** of a 10,000-ton Cruiser. The family pays in pure platinum, but you are ordered to report directly to Lyra Brightwater, who is secretly using these contracts to recruit loyal agents for an impending family coup.

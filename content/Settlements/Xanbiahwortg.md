@@ -8,9 +8,6 @@
 > - **Total Population:** Dwarves, Humans, and Underdark Sub-races (Larger than Rhaxdanpoint)
 > - **Military Might:** The Iron Phalanx (Heavy Golem-armor infantry and siege engineers)
 > - **The Food Deficit:** Consumes ~30,000,000 tons of food annually, entirely dependent on House Brightwater's arrivals.
-
----
-
 ## The Vertical Districts of Xanbiahwortg
 
 Due to its mountainous geography, Xanbiahwortg is not built horizontally, but vertically and deeply. The city is split into four massive operational tiers:
@@ -34,9 +31,6 @@ Beneath the foundries lies the true living heart of the megapolis – a sprawlin
 The lowest and most dangerous territory of Xanbiahwortg, stretching miles into the Underdark. 
 * **The Unbroken Dark:** This is where the active mining happens. Colossal steam-powered drills and magical excavation runes shatter the bedrock to extract veins of pristine gemstones, mithril, and mysterious void-ores.
 * **The Deep Threat:** The Vault-Roots are constantly expanding, which frequently breaks open hidden, ancient caverns filled with subterranean monsters, rogue elementals, and volatile magic pockets.
-
----
-
 ## City Mechanics & The Food Leverage
 
 ### The Great Dependency
@@ -44,12 +38,3 @@ Despite its absolute military might and infinite gold reserves, Xanbiahwortg has
 
 ### The Iron Phalanx
 Xanbiahwortg is protected by the **Iron Phalanx**, a military force renowned for its heavy golem-assisted armor and devastating black-powder or rune-siege weaponry. They do not patrol for petty crimes in the tenements; their only job is to protect the foundries, secure the Vault-Roots from Underdark incursions, and guard the Abyssal Terminal where the food arrives.
-
----
-
-## DM Tools & Local Hazards
-
-### Mountain Encounter Seeds
-1. **The Starvation Blockade:** A territorial Red Dragon has nested on the high mountain pass leading to the Abyssal Terminal, torching two incoming Brightwater Cruisers and causing a severe food panic in the Deep-Grip Grid. The mining lords are offering a literal king's ransom in platinum to any **Ranger** or group of hardened mercenaries who can slay or drive the dragon away before the city starves.
-2. **The Void-Shatter Leak:** Miners in the deepest level of the Vault-Roots have breached a pocket of raw antimagic void-ore. The resulting localized field has deactivated all magical elevator rūnām, trapping 5,000 miners in the dark with subterranean horrors. The party is hired by a panicked Overseer to use their non-magical **Outlander** survival skills to descend via manual chains and rescue the survivors.
-3. **The Brightwater Ransom:** A rogue faction of desperate, starving miners has secretly kidnapped a minor Brightwater magister who was supervising a grain discharge at the terminal. They are demanding a direct, non-rationed distribution of food to the lower tenements. The party must navigate the tense, narrow tunnels of the Under-City to defuse the situation before the Crimson Guard arrives to slaughter the miners and jeopardize the city's food contracts.
