@@ -46,15 +46,3 @@ Serephina is the perfect extension of her father's iron will. Serving as the act
 
 ### Prince Kaelen (The Youngest Son & Envoy)
 Kaelen is the charming, highly educated public face of the royal court. As the kingdom's chief envoy, he spends his life navigating the high-stakes contracts for the 200% overseas timber exports, coordinating directly with the embassies in Rhaxdanpoint. Kaelen abhors physical combat and the bloody reality of the Wild-Front logging camps. He is deeply fascinated by the spatial mechanics of House Brightwater’s dimensional wagons, quietly scheming to adapt that magic to compress whole forests into a single cargo container to bypass his sister's traditional shipping routes.
-
----
-
-## Character Options & Campaign Hooks
-
-For characters with the **Ranger** or **Outlander** backgrounds, House Thornheart represents an unmatched source of imperial coin, but a terrifyingly ruthless authority.
-
-### Character Background: The Defector Scout
-If a player character is a ranger, fighter, or druid, they might have been a former scout within the Sylvan Wardens who refused an order from Princess Serephina to burn down a village of neutral forest-dwellers to clear land for a new logging camp. After turning your weapon on your superior officer, you fled into the deeper woods or hid among the desperate workers of the Briar-Tenements. The Order of the Silver Blade has placed a massive bounty on your head, labeling you a "traitorous eco-terrorist."
-
-### Character Hook: The Ironwood Blight Contract
-House Thornheart is currently paying staggering amounts of pure gold to hire veteran rangers and outlanders to push past the Wild-Front line. A strange, necrotic magical curse has begun infecting the ancient ironwood groves, turning the trees into blood-drinking, animated monsters that are slaughtering the logging brigades. The contract is paying in sovereign platinum, but the party must report directly to Princess Serephina, who expects absolute martial obedience and will execute anyone who learns too much about the curse's true, unnatural origin.
