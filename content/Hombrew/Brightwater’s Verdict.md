@@ -1,4 +1,5 @@
-_Weapon (greatsword), artifact (requires attunement by a paladin)_
+*Weapon (greatsword), artifact (requires attunement by a paladin)*
+
 This legendary artifact was forged in the Upper Planes within the House of Brightwater. Its pristine adamantine blade is polished to such perfection that it cuts through the fabric of reality itself rather than rendering physical wounds.
 
 **Properties:**
