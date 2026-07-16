@@ -9,6 +9,6 @@
 
 ## Weapons
 - Spellcasting
-
+- Staff of Magi
 ## Links
-- [[Iceham]] - hometown
+- [[Iceham]]

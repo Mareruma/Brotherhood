@@ -11,4 +11,4 @@
 - Wild shape
 - Spellcasting
 ## Links
-- [[Ape]] - hometown
+- [[Ape]]

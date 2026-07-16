@@ -10,5 +10,6 @@
 - Longsword
 - Spellcasting
 ## Links
-- [[Rhaxdanpoint]] - hometown
-- [[House Brightwater]] - Family
+- [[Rhaxdanpoint]]
+- [[House Brightwater]]
+- [[Brightwater’s Verdict]]
